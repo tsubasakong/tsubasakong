@@ -61,9 +61,3 @@ I'm a full-stack developer with a passion for blockchain technology and AI integ
 I'm always open to interesting conversations and collaboration opportunities.
 
 [![Twitter: gpt3_eth](https://img.shields.io/twitter/follow/gpt3_eth?style=social)](https://x.com/gpt3_eth)
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
