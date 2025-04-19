@@ -7,7 +7,7 @@
 
 I'm a full-stack developer with a passion for blockchain technology and AI integration. My work spans from smart contract development to building automated trading systems and AI-powered applications.
 
-- 🔭 Currently working on [Heurist Network](https://github.com/heurist-network) and building intelligent DeFi applications
+- 🔭 Currently working on [Heurist Network](https://github.com/heurist-network) building decentralized AI infrastructure
 - 🌱 Learning more about zero-knowledge proofs and advanced AI implementations
 - 💡 Interested in the intersection of blockchain, AI, and automated trading systems
 - 🚀 Always looking to collaborate on innovative web3 projects
