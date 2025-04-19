@@ -7,7 +7,7 @@
 
 I'm a full-stack developer with a passion for blockchain technology and AI integration. My work spans from smart contract development to building automated trading systems and AI-powered applications.
 
-- 🔭 Currently building intelligent bots and DeFi applications
+- 🔭 Currently working on [Heurist Network](https://github.com/heurist-network) and building intelligent DeFi applications
 - 🌱 Learning more about zero-knowledge proofs and advanced AI implementations
 - 💡 Interested in the intersection of blockchain, AI, and automated trading systems
 - 🚀 Always looking to collaborate on innovative web3 projects
@@ -33,6 +33,7 @@ I'm a full-stack developer with a passion for blockchain technology and AI integ
 - 🔐 Smart contract development for NFT and DeFi projects
 - 🤖 Automated trading systems for DeFi platforms
 - 🔗 Integrations with protocols like 1inch, Zora, and various L2s
+- 🏛️ Contributing to [Heurist Network](https://github.com/heurist-network) ecosystem
 
 ### AI & Bots
 - 🌐 Translation and notification Discord bots
@@ -50,6 +51,7 @@ I'm a full-stack developer with a passion for blockchain technology and AI integ
 
 ## 🌱 Recent Projects
 
+- [Heurist Network](https://github.com/heurist-network) - Building next-gen blockchain solutions
 - [Lit Protocol Demo](https://github.com/tsubasakong/lit-protocol-demo) - Exploring decentralized access control
 - [Hardhat Template](https://github.com/tsubasakong/hardhat-template) - Streamlined Ethereum development environment
 - [Awesome Google ADK](https://github.com/tsubasakong/awesome-google-adk) - Curated resources for Google's Agent Development Kit
@@ -58,7 +60,7 @@ I'm a full-stack developer with a passion for blockchain technology and AI integ
 
 I'm always open to interesting conversations and collaboration opportunities.
 
-[![Twitter: tsubasakong](https://img.shields.io/twitter/follow/tsubasakong?style=social)](https://twitter.com/tsubasakong)
+[![Twitter: gpt3_eth](https://img.shields.io/twitter/follow/gpt3_eth?style=social)](https://x.com/gpt3_eth)
 [![Linkedin](https://img.shields.io/badge/-tsubasakong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsubasakong/)](https://www.linkedin.com/in/tsubasakong/)
 
 ---
