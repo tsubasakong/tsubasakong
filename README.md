@@ -61,7 +61,6 @@ I'm a full-stack developer with a passion for blockchain technology and AI integ
 I'm always open to interesting conversations and collaboration opportunities.
 
 [![Twitter: gpt3_eth](https://img.shields.io/twitter/follow/gpt3_eth?style=social)](https://x.com/gpt3_eth)
-[![Linkedin](https://img.shields.io/badge/-tsubasakong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tsubasakong/)](https://www.linkedin.com/in/tsubasakong/)
 
 ---
 
