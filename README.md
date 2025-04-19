@@ -30,10 +30,10 @@ Innovative blockchain architect and AI engineer specializing in decentralized sy
 ## 🏗️ Projects & Experience
 
 ### Web3 & Blockchain
+- 🏛️ Contributing to [Heurist Network](https://github.com/heurist-network) ecosystem
 - 🔐 Smart contract development for NFT and DeFi projects
 - 🤖 Automated trading systems for DeFi platforms
 - 🔗 Integrations with protocols like 1inch, Zora, and various L2s
-- 🏛️ Contributing to [Heurist Network](https://github.com/heurist-network) ecosystem
 
 ### AI & Bots
 - 🌐 Translation and notification Discord bots
