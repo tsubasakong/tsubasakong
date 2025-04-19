@@ -51,7 +51,7 @@ I'm a full-stack developer with a passion for blockchain technology and AI integ
 
 ## 🌱 Recent Projects
 
-- [Heurist Network](https://github.com/heurist-network) - Building next-gen blockchain solutions
+- [Heurist Network](https://github.com/heurist-network) - Building decentralized AI infrastructure and compute marketplace
 - [Lit Protocol Demo](https://github.com/tsubasakong/lit-protocol-demo) - Exploring decentralized access control
 - [Hardhat Template](https://github.com/tsubasakong/hardhat-template) - Streamlined Ethereum development environment
 - [Awesome Google ADK](https://github.com/tsubasakong/awesome-google-adk) - Curated resources for Google's Agent Development Kit
