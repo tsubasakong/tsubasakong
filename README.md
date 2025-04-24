@@ -12,6 +12,10 @@ Innovative blockchain architect and AI engineer specializing in decentralized sy
 - 💡 Interested in the intersection of blockchain, AI, and automated trading systems
 - 🚀 Always looking to collaborate on innovative web3 projects
 
+## 🔬 Research
+
+- [Eliza: A Web3 friendly AI Agent Operating System](https://arxiv.org/abs/2501.06781v1) - Co-author of research paper on Web3-friendly AI agent frameworks (January 2025)
+
 ## 🛠️ Tech Stack
 
 <div>
