@@ -7,7 +7,7 @@
 
 Innovative blockchain architect and AI engineer specializing in decentralized systems that bridge Web3 and artificial intelligence. Pioneering solutions at the cutting edge of both fields with expertise in smart contract security, distributed computing, and autonomous systems.
 
-- 🔭 Currently working on [Heurist Network](https://github.com/heurist-network) building decentralized AI infrastructure
+- 🔭 Currently building AI infrastructure at [T54](https://github.com/t54-labs), and contributing to [Heurist Network](https://github.com/heurist-network)
 - 🌱 Learning more about zero-knowledge proofs and advanced AI implementations
 - 💡 Interested in the intersection of blockchain, AI, and automated trading systems
 - 🚀 Always looking to collaborate on innovative web3 projects
@@ -34,7 +34,7 @@ Innovative blockchain architect and AI engineer specializing in decentralized sy
 ## 🏗️ Projects & Experience
 
 ### Web3 & Blockchain
-- 🏛️ Contributing to [Heurist Network](https://github.com/heurist-network) ecosystem
+- 🏛️ Building AI infrastructure at [T54](https://github.com/t54-labs) and contributing to [Heurist Network](https://github.com/heurist-network) ecosystem
 - 🔐 Smart contract development for NFT and DeFi projects
 - 🤖 Automated trading systems for DeFi platforms
 - 🔗 Integrations with protocols like 1inch, Zora, and various L2s
@@ -55,6 +55,7 @@ Innovative blockchain architect and AI engineer specializing in decentralized sy
 
 ## 🌱 Recent Projects
 
+- [T54](https://github.com/t54-labs) - Building AI infrastructure for the next generation of decentralized applications
 - [Heurist Network](https://github.com/heurist-network) - Building decentralized AI infrastructure and compute marketplace
 - [Lit Protocol Demo](https://github.com/tsubasakong/lit-protocol-demo) - Exploring decentralized access control
 - [Hardhat Template](https://github.com/tsubasakong/hardhat-template) - Streamlined Ethereum development environment
