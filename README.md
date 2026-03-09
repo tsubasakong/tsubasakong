@@ -7,7 +7,7 @@
 
 Innovative blockchain architect and AI engineer specializing in decentralized systems that bridge Web3 and artificial intelligence. Pioneering solutions at the cutting edge of both fields with expertise in smart contract security, distributed computing, and autonomous systems.
 
-- 🔭 Currently building AI infrastructure at [T54](https://github.com/t54-labs), and contributing to [Heurist Network](https://github.com/heurist-network)
+- 🔭 Currently building AI infrastructure at [T54](https://github.com/t54-labs), contributing to [Heurist Network](https://github.com/heurist-network), and core contributing to [elizaOS/eliza](https://github.com/elizaOS/eliza)
 - 🌱 Learning more about zero-knowledge proofs and advanced AI implementations
 - 💡 Interested in the intersection of blockchain, AI, and automated trading systems
 - 🚀 Always looking to collaborate on innovative web3 projects
