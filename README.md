@@ -12,6 +12,25 @@ Innovative blockchain architect and AI engineer specializing in decentralized sy
 - 💡 Interested in the intersection of blockchain, AI, and automated trading systems
 - 🚀 Always looking to collaborate on innovative web3 projects
 
+## 🤝 Open Source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/elizaOS/eliza"><b>elizaOS / eliza</b></a><br />
+<sub>Core contributor · autonomous agent platform (TypeScript)</sub><br />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=role&message=core%20contributor&labelColor=14b8a6&color=111827" alt="role core contributor" /><br />
+<img src="https://img.shields.io/github/stars/elizaOS/eliza?style=flat-square&label=stars&color=f59e0b" alt="eliza stars" />
+<img src="https://img.shields.io/github/forks/elizaOS/eliza?style=flat-square&label=forks&color=60a5fa" alt="eliza forks" />
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/heurist-network"><b>Heurist Network</b></a><br />
+<sub>Contributor · decentralized AI infrastructure</sub><br />
+<img src="https://img.shields.io/static/v1?style=for-the-badge&label=role&message=contributor&labelColor=14b8a6&color=111827" alt="role contributor" /><br />
+</td>
+</tr>
+</table>
+
 ## 🔬 Research
 
 - [Eliza: A Web3 friendly AI Agent Operating System](https://arxiv.org/abs/2501.06781v2) - Co-author of research paper on Web3-friendly AI agent frameworks (January 2025)
@@ -19,16 +38,16 @@ Innovative blockchain architect and AI engineer specializing in decentralized sy
 ## 🛠️ Tech Stack
 
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black">
-  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge&logo=ethereum&logoColor=black">
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white">
 </div>
 
 ## 🏗️ Projects & Experience
